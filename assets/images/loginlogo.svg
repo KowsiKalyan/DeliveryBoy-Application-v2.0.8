@@ -1,0 +1,15 @@
+<svg id="loginlogo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94" height="94.001" viewBox="0 0 94 94.001">
+  <defs>
+    <filter id="Path_6386" x="21.553" y="20.774" width="50.891" height="54.452" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Rectangle_2701" data-name="Rectangle 2701" width="66.468" height="66.468" rx="7" transform="translate(47 0) rotate(45)" fill="#fc6a57"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_6386)">
+    <path id="Path_6386-2" data-name="Path 6386" d="M634.448,384.917V424.44a1.184,1.184,0,0,1-1.184,1.184h-6.151l-1.98,3.561V407.514h0V391.063l-.005,0L613.881,398.4h0l-4.531-2.954-.314-.2-4.225-2.755-2.194-1.43v23.663l6.732,4.033V403.48h0l4.531,2.954h0l4.521-2.948v22.139H593.741a1.184,1.184,0,0,1-1.184-1.184V384.917a1.184,1.184,0,0,1,1.184-1.184h39.524A1.183,1.183,0,0,1,634.448,384.917Z" transform="translate(-566.5 -359.46)" fill="#fff"/>
+  </g>
+</svg>
